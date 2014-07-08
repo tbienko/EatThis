@@ -1,0 +1,7 @@
+*.sublime-project
+*.sublime-workspace
+*.min.js
+*.min.css
+
+EatThis/style/*.css
+EatThis/doc.html
